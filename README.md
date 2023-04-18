@@ -1,5 +1,4 @@
-<pre>
-```markdown
+
 # Basic Blockchain Application
 
 This is a basic blockchain application created by `najibabounasr`, an SMC CS student and Fintech enthusiast. This repository is intended to store all basic blockchain-creating applications.
@@ -78,6 +77,4 @@ streamlit run blockchain.py
 4. The application should open in a new tab in your default web browser. Follow the instructions on the web page to use the blockchain application.
 
 That's it! You can now use the blockchain application and explore the possibilities of blockchain technology.
-```
-</pre>
-This will display the markdown text as a code block with syntax highlighting.
+
