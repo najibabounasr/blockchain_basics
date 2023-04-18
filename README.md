@@ -59,19 +59,19 @@ To use the blockchain application, follow the steps below:
 1. Clone the repository by typing the following command in the terminal or command prompt:
 
 ```
-git clone https://github.com/najibabounasr/basic-blockchain.git
+git clone https://github.com/najibabounasr/blockchain_basics.git
 ```
 
 2. Navigate to the cloned repository by typing the following command in the terminal or command prompt:
 
 ```
-cd basic-blockchain
+cd blockchain_basics
 ```
 
-3. Run the application by typing the following command in the terminal or command prompt:
+3. Run the application by typing the following command in the terminal or command prompt (Note: 'app' is used as a reference, to be switched with the name of the program you wish to interact with):
 
 ```
-streamlit run blockchain.py
+streamlit run app.py
 ```
 
 4. The application should open in a new tab in your default web browser. Follow the instructions on the web page to use the blockchain application.
